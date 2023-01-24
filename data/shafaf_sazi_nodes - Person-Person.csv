@@ -1,0 +1,11 @@
+uid_1,uid_2,type,detail
+P_1,P_3,IS_RELATED_TO,فرزند
+P_1,P_2,IS_RELATED_TO,فرزند
+P_2,P_3,IS_RELATED_TO,همسر
+P_6,P_8,IS_RELATED_TO,فرزند
+P_7,P_8,IS_RELATED_TO,فرزند
+P_6,P_7,IS_RELATED_TO,خواهر برادر
+P_4,P_5,IS_RELATED_TO,فرزند
+P_9,P_10,IS_RELATED_TO,فرزند
+P_11,P_12,IS_RELATED_TO,فرزند
+P_12,P_13,WORKS_WITH,معاون
